@@ -35,12 +35,12 @@ Install dependencies
 ```bash
   npm install
 ```
-[Harshdeep.pdf](https://github.com/user-attachments/files/16570566/Harshdeep.pdf)
-
 
 Start the server
 
 ```bash
   npm run dev
 ```
+https://github.com/user-attachments/assets/f893032d-1b31-4b45-9f50-86dbb30da723
+
 
